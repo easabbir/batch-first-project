@@ -3,4 +3,13 @@ my important file that will change the world()
 {
 
 	asdjfalsf;alskjdf
+	printMyName("Sabbir");
+}
+
+new method added
+ 
+public void printMyName(String name)
+{
+	String myName=name;
+	System.out.println("My name is : " + myName);	
 }
