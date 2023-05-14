@@ -1,0 +1,68 @@
+Mohaimenur
+
+
+1. clone the project
+2. Takes the latest master branch
+3. Create a new branch "YourName"
+4. Add a text file and write your name
+5. Staging -> Commit -> push branch
+
+git revert 1234567890..9876543210 (for rollback)
+
+
+#check branches
+git branch
+
+#switch branch
+git checkout master
+
+#create branch
+git checkout -b (name)
+
+#delete branch
+git branch -d (name)
+
+#for update
+git pull
+
+=====================
+git checkout -b (name)
+
+git status
+
+git add */.
+
+git status
+
+git commit -m "name"
+
+git push origin "name new branch"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
